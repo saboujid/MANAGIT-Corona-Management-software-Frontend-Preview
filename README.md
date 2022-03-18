@@ -1,0 +1,2 @@
+# MANAGIT
+Corona Management webservice
