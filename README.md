@@ -1,4 +1,4 @@
 # MANAGIT
 Corona Management webservice
 
-#### Members: Saad Aboujid, Keagan Holmes
+#### Contributors: Saad Aboujid, Keagan Holmes
